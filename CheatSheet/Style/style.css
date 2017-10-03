@@ -1,0 +1,13 @@
+body{
+    background-color: gray;
+}
+h2{
+    color: blue;
+    font-size: 40px;
+}
+article{
+    margin-bottom: 100px;
+    margin-left: 40px;
+    background-color:  #aba5a4; 
+    margin-right: 50px;
+}
